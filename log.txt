@@ -1,0 +1,16 @@
+IP: ::1
+URL: https://localhost:8080/documentation
+Timestamp: Tue Feb 20 2024 09:07:17 GMT+0100 (Central European Standard Time)
+
+IP: ::1
+URL: https://localhost:8080/favicon.ico
+Timestamp: Tue Feb 20 2024 09:07:17 GMT+0100 (Central European Standard Time)
+
+IP: ::1
+URL: https://localhost:8080/foobar
+Timestamp: Tue Feb 20 2024 09:08:54 GMT+0100 (Central European Standard Time)
+
+IP: ::1
+URL: https://localhost:8080/favicon.ico
+Timestamp: Tue Feb 20 2024 09:08:55 GMT+0100 (Central European Standard Time)
+
