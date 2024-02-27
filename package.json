@@ -1,0 +1,24 @@
+{
+  "name": "movie_api",
+  "version": "1.0.0",
+  "description": "A MERN backend for a movie watchlist database",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timsdesigns/movie_api.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Node.js"
+  ],
+  "author": "Tim Fischer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timsdesigns/movie_api/issues"
+  },
+  "homepage": "https://github.com/timsdesigns/movie_api#readme"
+}
