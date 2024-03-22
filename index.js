@@ -1,9 +1,9 @@
 (() => {
   // Import modules
   const express = require("express"),
-  morgan = require("morgan"),
-  fs = require("fs"),
-  path = require("path");
+    morgan = require("morgan"),
+    fs = require("fs"),
+    path = require("path");
 
   // Assign functions
   const app = express(),
