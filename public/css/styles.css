@@ -1,0 +1,23 @@
+html, body {
+  background-color: #1f1f1f; 
+  color: lightgray; 
+  font-family: Arial, sans-serif; 
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+iframe {
+  width: 100%;
+  min-height: 1000px; /* Adjust as needed */
+  border: none;
+  /*overflow-y: auto; /* Allows scrolling within the iframe */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  iframe {
+    min-height: 1200px; /* Adjust as needed for smaller screens */
+  }
+}
